@@ -1,0 +1,9 @@
+name: C:\Users\cogni\Downloads\aiops-mlflow-01\env
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.7.16=h6244533_0
+
+  - pip:
+    - mlflow==1.30.0 
